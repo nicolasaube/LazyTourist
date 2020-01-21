@@ -16,6 +16,7 @@ Steps to reproduce the behavior:
 4. See error
 
 **Expected behavior :**
+
 The app is supposed to trigger a push notification within range of a place of interest and give a short description about it
 
 **Smartphone :**
