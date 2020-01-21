@@ -16,15 +16,9 @@ Steps to reproduce the behavior:
 4. See error
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+The app is supposed to trigger a push notification within range of a place of interest and give a short description about it
 
 **Smartphone (please complete the following information):**
  - Device: iPhone6 or later
- - OS: iOS8.1
+ - OS: iOS 8.1
  - Version 1.0
-
-**Additional context**
-Add any other context about the problem here.
