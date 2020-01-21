@@ -15,10 +15,10 @@ Steps to reproduce the behavior:
 3. Walk in the street and go near a place of interest
 4. See error
 
-**Expected behavior**
+**Expected behavior :**
 The app is supposed to trigger a push notification within range of a place of interest and give a short description about it
 
-**Smartphone (please complete the following information):**
+**Smartphone :**
  - Device: iPhone6 or later
  - OS: iOS 8.1
  - Version 1.0
